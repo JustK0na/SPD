@@ -1,0 +1,3 @@
+/home/mikolaj/studia/SPD/Lab1/cmake-build-debug/CMakeFiles/Lab1.dir
+/home/mikolaj/studia/SPD/Lab1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/mikolaj/studia/SPD/Lab1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
